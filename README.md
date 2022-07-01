@@ -11,7 +11,7 @@
 
 - 📚 System analysis and development student 1/5
 - 🌱 I’m currently learning and practicing Typescript
-- 💻 Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL
+- 💻 I enjoy working with ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I used to be a cryptogames player
 
