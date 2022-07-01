@@ -7,7 +7,7 @@
 </div>
   
 ## About me 👩🏻‍💼
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/887758474484789280/992463625363128361/download20220705131452.png?width=676&height=676">
+<img align="right" alt="Lari-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/887758474484789280/992463625363128361/download20220705131452.png?width=676&height=676">
 
 - 🔭 System analysis and development student 1/5
 - 🌱 I’m currently learning and practicing Typescript
