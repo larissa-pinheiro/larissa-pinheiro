@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning and practicing Typescript
 - 💻 I enjoy working with ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I used to be a cryptogames player
+- ⚡ Fun fact: I used to be a cryptogames player and investor
 
 ## Stack 👩🏻‍💻
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp;
