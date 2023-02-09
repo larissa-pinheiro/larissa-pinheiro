@@ -12,8 +12,8 @@
 - 👩🏻‍💻 I'm a front-end developer
 - 📌 From São Paulo
 - 📚 System analysis and development student 1/5
-- 🌱 I’m currently learning and practicing Typescript
-- 💻 I enjoy working with ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL
+- 🌱 I’m currently learning and practicing Python applications, as well as using its Flask framework
+- 💻 I also enjoy working with ReactJS
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I used to be a cryptogames player and investor
 
