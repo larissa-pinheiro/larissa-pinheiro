@@ -11,7 +11,7 @@
 
 - 👩🏻‍💻 I'm a front-end developer
 - 📌 From São Paulo
-- 📚 System analysis and development student 2/5
+- 📚 System analysis and development student 3/5
 - 💻 I enjoy work with ReactJS or Python
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I used to be a cryptogames player and investor
