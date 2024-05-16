@@ -11,7 +11,7 @@
 
 - 👩🏻‍💻 I'm a front-end developer
 - 📌 From São Paulo
-- 📚 System analysis and development student 3/5
+- 📚 System analysis and development student 4/5
 - 💻 I enjoy work with ReactJS or Python
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I used to be a cryptogames player and investor
@@ -26,5 +26,3 @@
  ## Social
 <a href="https://www.linkedin.com/in/larissa-mpinheiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ![](https://komarev.com/ghpvc/?username=larissa-pinheiro&style=for-the-badge&color=9370DB)
-
-![Snake animation](https://github.com/larissa-pinheiro/larissa-pinheiro/blob/output/github-contribution-grid-snake.svg)
