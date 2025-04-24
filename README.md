@@ -9,10 +9,10 @@
 ## About me 👩🏻‍💼
 <img align="right" alt="Lari-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/887758474484789280/992463625363128361/download20220705131452.png?width=676&height=676">
 
-- 👩🏻‍💻 I'm a front-end developer
+- 👩🏻‍💻 I'm a Front-end Developer
 - 📌 From São Paulo
-- 📚 System analysis and development student 4/5
-- 💻 I enjoy work with ReactJS or Python
+- 📚 Systems Analysis and Development Technologist (Brazilian Technical Degree)
+- 💻 I enjoy working with ReactJS or Python
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I used to be a cryptogames player and investor
 
