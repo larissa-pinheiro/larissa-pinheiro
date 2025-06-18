@@ -9,18 +9,19 @@
 ## About me 👩🏻‍💼
 <img align="right" alt="Lari-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/887758474484789280/992463625363128361/download20220705131452.png?width=676&height=676">
 
-- 👩🏻‍💻 I'm a Front-end Developer
+- 👩🏻‍💻 I'm a Full Stack Developer  
 - 📌 From São Paulo
 - 📚 Systems Analysis and Development Technologist (Brazilian Technical Degree)
-- 💻 I enjoy working with ReactJS or Python
-- 😄 Pronouns: She/Her
+- 💻 I enjoy working with TypeScript, React.js, Node.js, Nest.js and Python
 - ⚡ Fun fact: I used to be a cryptogames player and investor
 
 ## Stack 👩🏻‍💻
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJs-black?style=for-the-badge&logo=next.js) &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) &nbsp;
 <br>
   
  ## Social
